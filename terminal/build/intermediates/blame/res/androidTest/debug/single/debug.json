@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/xml_backupscheme.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/xml/backupscheme.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_ic_new_session.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/ic_new_session.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_text_select_handle_left_material.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_left_material.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_line_in_drawer.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/layout/line_in_drawer.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_text_select_handle_right_material.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_right_material.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_selected_session_background.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/selected_session_background.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/raw_bell.ogg.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/raw/bell.ogg"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_banner.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/banner.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_drawer_layout.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_extra_keys_right.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/layout/extra_keys_right.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_ic_service_notification.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/ic_service_notification.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_terminal_scroll_shape.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/terminal_scroll_shape.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_session_ripple.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/session_ripple.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout_extra_keys_main.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/layout/extra_keys_main.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-hdpi-v4_ic_launcher_round.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_text_select_handle_right_mtrl_alpha.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_right_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/xml_shortcuts.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4_ic_launcher_round.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_text_select_handle_left_mtrl_alpha.png.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_left_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable_current_session.xml.flat",
+        "source": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/bundles/debug/res/drawable/current_session.xml"
+    },
+    {
+        "merged": "/Users/abood/Desktop/YoutubeDownloader/terminal/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abood/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e161f9c9b0a99101a81ab9fba84014f1/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]
